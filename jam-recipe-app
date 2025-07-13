@@ -452,6 +452,7 @@
         label += `<p>名称：${main}ジャム</p>`;
         label += `<p>原材料名：${ingredients}</p>`;
         label += `<p>内容量：${displayAmount}g</p>`;
+　　　　 label += `<p>賞味期限：各自で決定、記入</p>`;
         label += `<p>保存方法：${storageText}</p>`;
         label += `<p>製造者：各自記入</p>`;
         label += `<p>栄養成分表示（${displayAmount}g当たり 推定値）：</p>`;
